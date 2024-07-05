@@ -1,0 +1,3 @@
+/Users/arminhamrah/CLionProjects/War/cmake-build-debug/CMakeFiles/War.dir
+/Users/arminhamrah/CLionProjects/War/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/arminhamrah/CLionProjects/War/cmake-build-debug/CMakeFiles/rebuild_cache.dir
